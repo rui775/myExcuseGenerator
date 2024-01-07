@@ -1,5 +1,6 @@
 # Excuse generator
-## Developed for "Mixed Messages" protfolio project under [Codecademy](https://www.codecademy.com/).
+## "Mixed Messages" protfolio project
+### Developed for [Codecademy](https://www.codecademy.com/).
 - My script generates an excuse  randomly;
 - Metodology:
   - Stored data in an object of nested arrays;
