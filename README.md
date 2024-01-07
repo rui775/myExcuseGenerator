@@ -7,3 +7,5 @@
   - Final expression created by a callback function.
 - Tecnology used: JavaScript.
 
+#### To see an excuse, you know what to do... ```node file.js```
+
